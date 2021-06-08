@@ -1,0 +1,6 @@
+Create JUNE 2021 by Alexandrea Teigeler
+Created in Visual Studio, this application uses C++ to create a system where people can
+input how much they want to deposit, interest, and how long to sit.
+Made for a school project.
+I really like to practice and impliment my use of do-while loop with a try-catch block nested within
+to make sure the user input doesn't cause a crash no matter the type of input.
